@@ -1,4 +1,4 @@
-## Masai-Giraffe
+## Masai-Giraffe (_Giraffa camelopardalis tippelskirchi_)
 Members: 
 Dariya Edwards: (dariya.edwards001@umb.edu)
 Iman Hassan: (iman.hassan001@umb.edu)
