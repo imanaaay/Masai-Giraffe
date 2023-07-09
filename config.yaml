@@ -1,0 +1,133 @@
+    # Project definitions (do not edit)
+Task: Giraffe DLC
+scorer: Kate
+date: Jun12
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: '/content/drive/Shareddrives/Psych: Behavioral Research DLC Project/Colab/Giraffe
+  DLC-Kate-2023-06-12'
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 8.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 9.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 1.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 14.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 2.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 3.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 11.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 7.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 6.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 10.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 12.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 4.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 5.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 13.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 15.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 16.mov:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 17.MOV:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 18.MOV:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 19.MOV:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 20.MOV:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 21.MOV:
+    crop: 0, 1080, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 22.mov:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 23.MOV:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 24.MOV:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 25.MOV:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 26.MOV:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 27.mov:
+    crop: 0, 1440, 0, 1920
+  /Users/klevi/Documents/Documents/UMB/Summer 2023/Intro to Behavioral Research/Group Project/Untagged videos/Giraffe 28.MOV:
+    crop: 0, 1440, 0, 1920
+bodyparts:
+- nose
+- right_ossicone
+- left_ossicone
+- right_ear
+- left_ear
+- withers
+- right_foreleg
+- left_foreleg
+- right_hind_leg
+- left_hind_leg
+- tail
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 12
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
